@@ -142,11 +142,11 @@ docker-compose up --build
 ```
 
 # Resultados
->Dirigirnos el servicio de usuarios
-><img src="">
+>Dirigirnos el servicio de usuarios en el puerto 3001
+><img src="https://github.com/jhotwox/ejemplo_docker/blob/main/2024-10-17_220451.png?raw=true">
 
->Dirigirnos al servicio de bienvenida
-><img src="">
+>Dirigirnos al servicio de bienvenida en el puerto 3000
+><img src="https://github.com/jhotwox/ejemplo_docker/blob/main/2024-10-17_220502.png?raw=true">
 
->Dirigirnos al servicio de bienvenida en la dirección /users
-><img src="">
+>Dirigirnos al servicio de bienvenida en el puerto 3000 y la dirección /users
+><img src="https://github.com/jhotwox/ejemplo_docker/blob/main/2024-10-17_220515.png?raw=truehttps://github.com/jhotwox/ejemplo_docker/blob/main/2024-10-17_220515.png?raw=true">
